@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+    
+    <string-array name="movie_titles">
+        <item>The 400 Blows</item>
+        <item>The Godfather</item>
+        <item>Umberto D</item>
+        <item>White Heat</item>
+        <item>Duck Soup</item>
+        <item>Mafioso</item>
+        <item>Stalag 17</item>
+        <item>The Dark Knight</item>
+        <item>Fight Club</item>
+        <item>The Big Lebowski</item>
+        <item>Snatch</item>
+        <item>Saving Private Ryan</item>
+        <item>Amélie</item>
+        <item>Crash</item>
+    </string-array>
+    <string-array name="movie_ratings">
+        <item>Rating:8.1</item>
+        <item>Rating:9.2</item>
+        <item>RAting:8.2</item>
+        <item>Rating:8.1</item>
+        <item>Rating:8</item>
+        <item>Rating:7.1</item>
+        <item>Rating:9.2</item>
+        <item>Rating:8.1</item>
+        <item>Rating:8.4</item>
+        <item>Rating:8.3</item>
+        <item>Rating:8.6</item>
+        <item>Rating:8.3</item>
+        <item>Rating:7.9</item>
+        <item>Rating:7.8</item>
+    </string-array>
+    
+</resources>
